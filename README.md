@@ -20,7 +20,7 @@ After graduation I joined Uline as an Associate Software Developer, and after on
 
  * Email: harris.tanweer02@gmail.com
  * LinkedIn: [harristanweer](https://www.linkedin.com/in/harristanweer/)
- * Portfolio Website: [heyaharris](https://heyharris.github.io/)
+ * Portfolio Website: [heyharris](https://heyharris.github.io/)
 <!--
 **HeyHarris/HeyHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
