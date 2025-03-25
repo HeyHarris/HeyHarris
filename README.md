@@ -12,7 +12,7 @@ After graduation I joined Uline as an Associate Software Developer, and after on
 ### 💼 Experience
 
 * **Uline** - Software Developer: Designing features within our web applications and leading in technical grooming and development of stories in an Agile work
-* **Uline** - Associate Software Developer: Modernized 4+ microservices relating to customer contacts and customer preferences to support new business and architectural needs.
+* **Uline** - Associate Software Developer: Modernized 20+ microservices relating to customer contacts and customer preferences to support new business and architectural needs.
 * **Uline** - Software Developer Intern: Developed and deployed a quotes management feature to assist quote reps in maximizing gross profit using Angular, HTML, CSS, Java, Spring Boot, Microsoft SQL Server and DB2 LUW
 
 
